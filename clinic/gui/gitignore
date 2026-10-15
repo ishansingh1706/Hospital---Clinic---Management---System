@@ -1,0 +1,8 @@
+.DS_Store
+.venv312/
+.venv312-broken/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env

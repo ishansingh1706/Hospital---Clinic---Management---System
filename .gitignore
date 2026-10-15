@@ -1,0 +1,22 @@
+.DS_Store
+.venv312/
+.venv312-broken/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+# Local patient and account data
+clinic/patients.json
+clinic/users.txt
+clinic/records/
+clinic/**/*.dat
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Local virtual environments
+Medical-Clinic-System--/.venv/
+Medical-Clinic-System--/.venv312/
+clinic/ml/clinic/
